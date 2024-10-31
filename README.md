@@ -33,17 +33,15 @@ Place these in the same directory as the script:
 
 1. Update these variables in the script:
 
-```
-python
-audio_path = 'Episode Name.mp3' # Your audio file
+```python
+audio_path = 'Episode Name.mp3'  # Your audio file
 episode_name = 'Episode 2: How does Multi-Head Attention work?'
 podcast_name = 'Podlucination'
 ```
 
 2. Run the script:
 
-```
-bash
+```bash
 python app.py
 ```
 
