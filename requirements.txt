@@ -1,0 +1,7 @@
+numpy
+moviepy
+librosa
+opencv-python
+pyaudio
+matplotlib
+ffmpeg-python
